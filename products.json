@@ -1,0 +1,2232 @@
+[
+  {
+    "name": "BẠC HÀ",
+    "plu": "3978",
+    "emoji": "🌿"
+  },
+  {
+    "name": "BẮP CẢI 800G UP",
+    "plu": "23563",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI BẮC",
+    "plu": "3593",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI ĐỎ ÚC KOJ",
+    "plu": "28708",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI MỘC CHÂU",
+    "plu": "24385",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI SAVOY BỈ KOJ",
+    "plu": "28706",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI TÍM",
+    "plu": "3966",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI TRÁI TIM",
+    "plu": "3974",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI TRÁI TIM HÀ LAN",
+    "plu": "31246",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI TRẮNG",
+    "plu": "29209",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP CẢI TRẮNG BỈ",
+    "plu": "28707",
+    "emoji": "🥬"
+  },
+  {
+    "name": "BẮP ĐEN NHẬP KHẨU",
+    "plu": "30281",
+    "emoji": "🌽"
+  },
+  {
+    "name": "BẮP NON",
+    "plu": "4023",
+    "emoji": "🌽"
+  },
+  {
+    "name": "BẦU XANH",
+    "plu": "29224",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BẦU XANH",
+    "plu": "22680",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ ĐAO",
+    "plu": "29225",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ ĐAO MỘC CHÂU",
+    "plu": "29202",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ ĐAO XANH",
+    "plu": "22681",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ ĐỎ",
+    "plu": "22679",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ ĐỎ BABY",
+    "plu": "8654",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ ĐỎ DÀI",
+    "plu": "19135",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ ĐỎ TRÒN",
+    "plu": "4033",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ HẠT ĐẬU",
+    "plu": "29726",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ HẠT DẺ",
+    "plu": "31462",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ HỒ LÔ",
+    "plu": "29211",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ NGÔ HẠT DẼ ĐEN",
+    "plu": "31344",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ NGÔ HẠT DẼ VÀNG",
+    "plu": "31345",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ NGÔ MINI",
+    "plu": "4029",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ NGÒI 2 MÀU",
+    "plu": "18479",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ NGÒI TRÒN",
+    "plu": "18667",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ NGÒI XANH",
+    "plu": "4113",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ PHẤN THƠM BẮC KẠN",
+    "plu": "25712",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BÍ SỢI MÌ",
+    "plu": "29725",
+    "emoji": "🥒"
+  },
+  {
+    "name": "BÍ THIÊN NGA(HALLOWEEN)",
+    "plu": "31463",
+    "emoji": "🎃"
+  },
+  {
+    "name": "BƠ BOOTH",
+    "plu": "3946",
+    "emoji": "🥑"
+  },
+  {
+    "name": "BƠ CU BA",
+    "plu": "25450",
+    "emoji": "🥑"
+  },
+  {
+    "name": "BƠ SÁP",
+    "plu": "4531",
+    "emoji": "🥑"
+  },
+  {
+    "name": "BƠ SÁP 034",
+    "plu": "13964",
+    "emoji": "🥑"
+  },
+  {
+    "name": "BÔNG ARTISO TÂY BAN NHA KOJ",
+    "plu": "28381",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI TÍM NHẬP KHẨU KOJ",
+    "plu": "29788",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI TRẮNG",
+    "plu": "27353",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI TRẮNG 600G UP",
+    "plu": "23566",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI TRẮNG ÚC KOJ",
+    "plu": "28380",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI VÀNG NHẬP KHẨU KOJ",
+    "plu": "29787",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI XANH",
+    "plu": "3961",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI XANH 400G UP",
+    "plu": "23568",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI XANH BẮC",
+    "plu": "18372",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG CẢI XANH ÚC",
+    "plu": "28379",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BÔNG HẸ ĐÀI LOAN",
+    "plu": "9007",
+    "emoji": "🥦"
+  },
+  {
+    "name": "BƯỞI DA XANH",
+    "plu": "13452",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI DA XANH 9 PHẺ",
+    "plu": "30211",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI DA XANH TÁCH MÚI",
+    "plu": "29189",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI DA XANH TÁCH MÚI ĐÓNG KHAY",
+    "plu": "28916",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI DA XANH TÁCH MÚI GIẢM GIÁ",
+    "plu": "28917",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI DA XANH TÁCH MÚI KM 50",
+    "plu": "29190",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI DA XANH TÚI LƯỚI 0.8-1.1KG",
+    "plu": "12174",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI ĐOAN HÙNG",
+    "plu": "5301",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI HỒNG DA XANH",
+    "plu": "17202",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI NĂM ROI",
+    "plu": "3801",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI NĂM ROI 9 PHẺ",
+    "plu": "30210",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI PHÚC TRẠCH",
+    "plu": "3805",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI RUBY 9 PHẺ",
+    "plu": "31283",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI RUBY TÁCH MÚI",
+    "plu": "31280",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI RUBY TÁCH MÚI - 20%",
+    "plu": "31281",
+    "emoji": "🍈"
+  },
+  {
+    "name": "BƯỞI RUBY TÁCH MÚI - 50%",
+    "plu": "31282",
+    "emoji": "🍈"
+  },
+  {
+    "name": "CÀ CHUA BEEF",
+    "plu": "29204",
+    "emoji": "🍅"
+  },
+  {
+    "name": "CÀ CHUA BEEF MỘC CHÂU 150G-250G",
+    "plu": "24089",
+    "emoji": "🍅"
+  },
+  {
+    "name": "CÀ CHUA TRỨNG",
+    "plu": "18373",
+    "emoji": "🍅"
+  },
+  {
+    "name": "CÀ CHUA TRỨNG",
+    "plu": "4004",
+    "emoji": "🍅"
+  },
+  {
+    "name": "CÀ RỐT",
+    "plu": "29207",
+    "emoji": "🥕"
+  },
+  {
+    "name": "CÀ RỐT BẮC",
+    "plu": "4053",
+    "emoji": "🥕"
+  },
+  {
+    "name": "CÀ TÍM DÀI",
+    "plu": "29217",
+    "emoji": "🍆"
+  },
+  {
+    "name": "CẢI THẢO",
+    "plu": "3962",
+    "emoji": "🥬"
+  },
+  {
+    "name": "CẢI THẢO 800G UP",
+    "plu": "23567",
+    "emoji": "🥬"
+  },
+  {
+    "name": "CẢI THẢO HỎA TIỄN",
+    "plu": "3975",
+    "emoji": "🥬"
+  },
+  {
+    "name": "CẢI THẢO MỘC CHÂU",
+    "plu": "24386",
+    "emoji": "🥬"
+  },
+  {
+    "name": "CAM CANH",
+    "plu": "9989",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM CARA ÚC",
+    "plu": "9049",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM LÒNG VÀNG",
+    "plu": "22774",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM NAVEL AI CẬP",
+    "plu": "18096",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM NAVEL MỘC CHÂU",
+    "plu": "31546",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM NAVEL MỸ",
+    "plu": "18719",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM NAVEL ÚC",
+    "plu": "27967",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM SÀNH",
+    "plu": "16413",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VALENCIA AI CẬP",
+    "plu": "22184",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VALENCIA ÚC",
+    "plu": "27316",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VÀNG AI CẬP GS",
+    "plu": "27412",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VÀNG NAM PHI",
+    "plu": "18167",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VÀNG NAM PHI",
+    "plu": "17151",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VÀNG TQ",
+    "plu": "29552",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VÀNG ÚC GS",
+    "plu": "27103",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM VÀNG XUẤT XỨ TQ",
+    "plu": "11696",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CAM XOÀN",
+    "plu": "3597",
+    "emoji": "🍊"
+  },
+  {
+    "name": "CẦN NƯỚC",
+    "plu": "3999",
+    "emoji": "🌿"
+  },
+  {
+    "name": "CẦN TÂY",
+    "plu": "8379",
+    "emoji": "🌿"
+  },
+  {
+    "name": "CF-XOAI DO GIONG DL DONG KHAY",
+    "plu": "8559",
+    "emoji": "🥭"
+  },
+  {
+    "name": "CHANH DÂY",
+    "plu": "3812",
+    "emoji": "🟣"
+  },
+  {
+    "name": "CHANH DÂY VÀNG",
+    "plu": "12616",
+    "emoji": "🟣"
+  },
+  {
+    "name": "CHANH KHÔNG HẠT",
+    "plu": "29226",
+    "emoji": "🍋"
+  },
+  {
+    "name": "CHERRY CANADA",
+    "plu": "27846",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY CANADA GS",
+    "plu": "27848",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY CHILE",
+    "plu": "9170",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY MỸ",
+    "plu": "30187",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY MỸ GS",
+    "plu": "27045",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY MỸ SIZE 9.5-10",
+    "plu": "24519",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY NZL",
+    "plu": "8316",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY NZL GS",
+    "plu": "27304",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY ÚC",
+    "plu": "27242",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY ÚC GS",
+    "plu": "29352",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHERRY VÀNG MỸ",
+    "plu": "19017",
+    "emoji": "🍒"
+  },
+  {
+    "name": "CHÔM CHÔM GIỐNG THÁI",
+    "plu": "3951",
+    "emoji": "🔴"
+  },
+  {
+    "name": "CHÔM CHÔM NHÃN",
+    "plu": "3947",
+    "emoji": "🔴"
+  },
+  {
+    "name": "CHUỐI CAU",
+    "plu": "3938",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CHUỐI HAHA",
+    "plu": "29193",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CHUỐI KIDS BP",
+    "plu": "22232",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CHUỐI SỨ",
+    "plu": "3935",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CHUỐI TIÊU FOHLA",
+    "plu": "8144",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CHUỐI VÀNG DOLE",
+    "plu": "31289",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CHUỐI VÀNG FESSEPIA",
+    "plu": "8155",
+    "emoji": "🍌"
+  },
+  {
+    "name": "CÓC CÀY",
+    "plu": "3954",
+    "emoji": "🍏"
+  },
+  {
+    "name": "CÓC NON",
+    "plu": "4308",
+    "emoji": "🍏"
+  },
+  {
+    "name": "CƠM SẦU RIÊNG RI 6",
+    "plu": "29185",
+    "emoji": "🟤"
+  },
+  {
+    "name": "CƠM SẦU RIÊNG RI 6 KM 20",
+    "plu": "29186",
+    "emoji": "🟤"
+  },
+  {
+    "name": "CƠM SẦU RIÊNG RI6 KM 50",
+    "plu": "29187",
+    "emoji": "🟤"
+  },
+  {
+    "name": "CƠM SẦU RIÊNG ÚT GÁNG",
+    "plu": "22733",
+    "emoji": "🟤"
+  },
+  {
+    "name": "CƠM SẦU RIÊNG ÚT GÁNG KM 20",
+    "plu": "29798",
+    "emoji": "🟤"
+  },
+  {
+    "name": "CƠM SẦU RIÊNG ÚT GÁNG KM 50",
+    "plu": "29799",
+    "emoji": "🟤"
+  },
+  {
+    "name": "CỦ CẢI HÀN QUỐC",
+    "plu": "29817",
+    "emoji": "🥕"
+  },
+  {
+    "name": "CỦ CẢI TRẮNG",
+    "plu": "4065",
+    "emoji": "🥕"
+  },
+  {
+    "name": "CỦ CẢI TRẮNG 300G",
+    "plu": "23565",
+    "emoji": "🥕"
+  },
+  {
+    "name": "CỦ DỀN ĐÀ LẠT",
+    "plu": "4038",
+    "emoji": "🍠"
+  },
+  {
+    "name": "CỦ SẮN (ĐẬU)",
+    "plu": "4037",
+    "emoji": "🥔"
+  },
+  {
+    "name": "ĐÀO NHÂP KHẨU MỸ",
+    "plu": "16267",
+    "emoji": "🍑"
+  },
+  {
+    "name": "ĐẬU COVE",
+    "plu": "4106",
+    "emoji": "🫛"
+  },
+  {
+    "name": "ĐẬU ĐỎ TƯƠI ĐÀ LẠT",
+    "plu": "6433",
+    "emoji": "🫛"
+  },
+  {
+    "name": "ĐẬU HÀ LAN",
+    "plu": "18711",
+    "emoji": "🫛"
+  },
+  {
+    "name": "ĐẬU PETIT POIS",
+    "plu": "27357",
+    "emoji": "🫛"
+  },
+  {
+    "name": "ĐU ĐỦ",
+    "plu": "3551",
+    "emoji": "🟠"
+  },
+  {
+    "name": "ĐU ĐỦ ĐÓNG KHAY",
+    "plu": "19018",
+    "emoji": "🟠"
+  },
+  {
+    "name": "ĐU ĐỦ GIỐNG ĐÀI LOAN",
+    "plu": "9648",
+    "emoji": "🟠"
+  },
+  {
+    "name": "ĐU ĐỦ GIỐNG NHẬT",
+    "plu": "40025",
+    "emoji": "🟠"
+  },
+  {
+    "name": "ĐU ĐỦ RUỘT ĐỎ",
+    "plu": "30835",
+    "emoji": "🟠"
+  },
+  {
+    "name": "ĐU ĐỦ RUỘT VÀNG",
+    "plu": "30834",
+    "emoji": "🟠"
+  },
+  {
+    "name": "DƯA BẠCH KIM",
+    "plu": "27272",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA HẤU CẮT GỌT",
+    "plu": "31944",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU ĐÓNG KHAY",
+    "plu": "13490",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU ĐÓNG KHAY",
+    "plu": "6537",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU GIỐNG NHẬT",
+    "plu": "27408",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU GIỐNG NHẬT",
+    "plu": "31167",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU KHÔNG HẠT",
+    "plu": "31162",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU RUỘT ĐỎ",
+    "plu": "9979",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU RUỘT ĐỎ LOẠI 1",
+    "plu": "31160",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU RUỘT VÀNG",
+    "plu": "3856",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HẤU RUỘT VÀNG",
+    "plu": "31139",
+    "emoji": "🍉"
+  },
+  {
+    "name": "DƯA HOÀNG KIM",
+    "plu": "10772",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LÊ BẠCH KIM",
+    "plu": "13558",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LÊ GIỐNG HÀN QUỐC",
+    "plu": "4103",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LÊ HỒNG KIM",
+    "plu": "27271",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LEO",
+    "plu": "4024",
+    "emoji": "🥒"
+  },
+  {
+    "name": "DƯA LƯỚI BIỂN HÀNG NGA",
+    "plu": "27270",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI BIỂN KIM SA",
+    "plu": "28709",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI CẮT GỌT",
+    "plu": "31950",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI CẮT GỌT",
+    "plu": "29616",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI CẮT GỌT KM 20",
+    "plu": "29617",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI CẮT GỌT KM 50",
+    "plu": "29618",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI DÀI",
+    "plu": "5986",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI DÀI HUỲNH LONG",
+    "plu": "4437",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI GIỐNG HA LAN",
+    "plu": "25090",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI GIỐNG NHẬT RUỘT XANH",
+    "plu": "19459",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI HẠ UYỂN",
+    "plu": "30873",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI ICHIBA XANH",
+    "plu": "31457",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI NGỌC BÍCH",
+    "plu": "27328",
+    "emoji": "🎃"
+  },
+  {
+    "name": "DƯA LƯỚI RUỘT VÀNG PANSY",
+    "plu": "29558",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DƯA LƯỚI THIÊN HỒNG RUỘT CAM",
+    "plu": "31458",
+    "emoji": "🍊"
+  },
+  {
+    "name": "DƯA LƯỚI TL3",
+    "plu": "13568",
+    "emoji": "🍈"
+  },
+  {
+    "name": "DỨA MẬT",
+    "plu": "5233",
+    "emoji": "🍍"
+  },
+  {
+    "name": "DỨA MD2",
+    "plu": "30874",
+    "emoji": "🍍"
+  },
+  {
+    "name": "F365-XOÀI CHU VÀNG CẮT GỌT",
+    "plu": "31942",
+    "emoji": "🥭"
+  },
+  {
+    "name": "F365-XOÀI KEO VÀNG CẮT GỌT",
+    "plu": "31943",
+    "emoji": "🥭"
+  },
+  {
+    "name": "GN-NHO XANH SHINE MUSCAT HÀN QUỐC",
+    "plu": "31459",
+    "emoji": "🍇"
+  },
+  {
+    "name": "GN-TÁO AMBROSIA CANADA",
+    "plu": "2831",
+    "emoji": "🍎"
+  },
+  {
+    "name": "HÀNH TÂY",
+    "plu": "27360",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HÀNH TÂY BẮC",
+    "plu": "8129",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HÀNH TÂY HÀ LAN",
+    "plu": "19137",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HÀNH TÂY NEW ZEALAND",
+    "plu": "28852",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HÀNH TÂY TÍM ĐÀ LẠT",
+    "plu": "24538",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HÀNH TÂY TÍM HÀ LAN",
+    "plu": "22573",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HÀNH TÍM CHÙM VĨNH CHÂU",
+    "plu": "4914",
+    "emoji": "🧅"
+  },
+  {
+    "name": "HỖN HỢP TRÁI CÂY HEALTHY",
+    "plu": "31947",
+    "emoji": "🧺"
+  },
+  {
+    "name": "HỖN HỢP TRÁI CÂY SÁNG TẠO",
+    "plu": "31948",
+    "emoji": "🧺"
+  },
+  {
+    "name": "HỒNG GIÒN",
+    "plu": "15813",
+    "emoji": "🟠"
+  },
+  {
+    "name": "HỒNG GIÒN HÀN QUỐC",
+    "plu": "18455",
+    "emoji": "🟠"
+  },
+  {
+    "name": "HỒNG GIÒN HÀN QUỐC GS",
+    "plu": "28039",
+    "emoji": "🟠"
+  },
+  {
+    "name": "HỒNG GIÒN MỘC CHÂU",
+    "plu": "9168",
+    "emoji": "🟠"
+  },
+  {
+    "name": "HỒNG GIÒN NZL",
+    "plu": "8376",
+    "emoji": "🟠"
+  },
+  {
+    "name": "KHỔ QUA (MƯỚP ĐẮNG)",
+    "plu": "29214",
+    "emoji": "🥒"
+  },
+  {
+    "name": "KHOAI LANG GIỐNG NHẬT",
+    "plu": "4058",
+    "emoji": "🍠"
+  },
+  {
+    "name": "KHOAI MỠ",
+    "plu": "29227",
+    "emoji": "🍠"
+  },
+  {
+    "name": "KHOAI MÔN CAO",
+    "plu": "6896",
+    "emoji": "🍠"
+  },
+  {
+    "name": "KHOAI SỌ",
+    "plu": "6895",
+    "emoji": "🍠"
+  },
+  {
+    "name": "KHOAI TÂY BI ĐÀ LẠT",
+    "plu": "4060",
+    "emoji": "🥔"
+  },
+  {
+    "name": "KHOAI TÂY HỒNG ĐÀ LẠT",
+    "plu": "4056",
+    "emoji": "🥔"
+  },
+  {
+    "name": "KHOAI TÂY VÀNG",
+    "plu": "27359",
+    "emoji": "🥔"
+  },
+  {
+    "name": "KHOAI TÂY VÀNG BẮC",
+    "plu": "8130",
+    "emoji": "🥔"
+  },
+  {
+    "name": "KHÓM ĐÓNG KHAY",
+    "plu": "29836",
+    "emoji": "🍍"
+  },
+  {
+    "name": "KHÓM/THƠM 9 PHẺ",
+    "plu": "31660",
+    "emoji": "🍍"
+  },
+  {
+    "name": "KHÓM/THƠM 9 PHẺ CẮT GỌT",
+    "plu": "31663",
+    "emoji": "🍍"
+  },
+  {
+    "name": "KHÓM/THƠM 9 PHẺ CẮT GỌT 20%",
+    "plu": "31665",
+    "emoji": "🍍"
+  },
+  {
+    "name": "KHÓM/THƠM 9 PHẺ CẮT GỌT 50%",
+    "plu": "31667",
+    "emoji": "🍍"
+  },
+  {
+    "name": "KIWI VÀNG NZL",
+    "plu": "18153",
+    "emoji": "🥝"
+  },
+  {
+    "name": "KIWI VÀNG PHÁP",
+    "plu": "23501",
+    "emoji": "🥝"
+  },
+  {
+    "name": "KIWI XANH NZL",
+    "plu": "18600",
+    "emoji": "🥝"
+  },
+  {
+    "name": "LÊ ĐỎ MỸ",
+    "plu": "19444",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ ĐỎ VÀNG NAM PHI",
+    "plu": "27488",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ ĐƯỜNG TRUNG QUỐC",
+    "plu": "15489",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ HÀN QUỐC",
+    "plu": "14470",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ HÀN QUỐC GS",
+    "plu": "27177",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ HÀN QUỐC LOAI 1 GS",
+    "plu": "28074",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ HQ",
+    "plu": "13492",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ NÂU MỸ",
+    "plu": "19445",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ TAI NUNG",
+    "plu": "26030",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÊ XANH MỸ",
+    "plu": "19443",
+    "emoji": "🍐"
+  },
+  {
+    "name": "LÔ 2 NẤM KIM CHÂM HQ 300)",
+    "plu": "31560",
+    "emoji": "🍄"
+  },
+  {
+    "name": "LỰU",
+    "plu": "16351",
+    "emoji": "🔴"
+  },
+  {
+    "name": "LỰU KIM CƯƠNG TQ",
+    "plu": "30460",
+    "emoji": "🔴"
+  },
+  {
+    "name": "MẦM CẢI CỦ",
+    "plu": "7376",
+    "emoji": "🌱"
+  },
+  {
+    "name": "MẬN AN PHƯỚC",
+    "plu": "3789",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN CẮT GỌT",
+    "plu": "31949",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN ĐÁ",
+    "plu": "4139",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN HẬU",
+    "plu": "15312",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN HẬU RUBY",
+    "plu": "15337",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN SỮA",
+    "plu": "2882",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN TAM HOA",
+    "plu": "8350",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN ÚC",
+    "plu": "30462",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MẬN XANH ĐƯỜNG",
+    "plu": "4988",
+    "emoji": "🍑"
+  },
+  {
+    "name": "MÃNG CẦU TA",
+    "plu": "16264",
+    "emoji": "🍈"
+  },
+  {
+    "name": "MÃNG CẦU XIÊM",
+    "plu": "3866",
+    "emoji": "🍈"
+  },
+  {
+    "name": "MĂNG CỤT",
+    "plu": "3784",
+    "emoji": "🟣"
+  },
+  {
+    "name": "MÍT ĐỎ CẮT MIẾNG",
+    "plu": "28188",
+    "emoji": "🟡"
+  },
+  {
+    "name": "MÍT ĐỎ TÁCH MÚI",
+    "plu": "28711",
+    "emoji": "🟡"
+  },
+  {
+    "name": "MÍT GIỐNG THÁI CẮT MIẾNG",
+    "plu": "28187",
+    "emoji": "🟡"
+  },
+  {
+    "name": "MÍT GIỐNG THÁI TÁCH MÚI",
+    "plu": "28710",
+    "emoji": "🟡"
+  },
+  {
+    "name": "MÍT GIỐNGTHÁI",
+    "plu": "5132",
+    "emoji": "🟡"
+  },
+  {
+    "name": "MƯỚP HƯƠNG",
+    "plu": "29219",
+    "emoji": "🥒"
+  },
+  {
+    "name": "MƯỚP NGỌT (LẶC LÈ)",
+    "plu": "5205",
+    "emoji": "🥒"
+  },
+  {
+    "name": "NA GIỐNG THÁI",
+    "plu": "11672",
+    "emoji": "🍈"
+  },
+  {
+    "name": "NA SẦU RIÊNG",
+    "plu": "30716",
+    "emoji": "🟤"
+  },
+  {
+    "name": "NẤM BÀO NGƯ HQ (200)",
+    "plu": "31565",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM ĐÙI GÀ BABY HQ (300)",
+    "plu": "31564",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM ĐÙI GÀ HQ (300)",
+    "plu": "31563",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM ĐÙI GÀ VIỆT NAM",
+    "plu": "30129",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM HỖN HỘP HQ (400)",
+    "plu": "31566",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM KIM CHÂM HQ (200)",
+    "plu": "31561",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM KIM CHÂM HQ (360)",
+    "plu": "31562",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM MỠ NÂU HQ (200)",
+    "plu": "31567",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM NGỌC CHÂM TƯƠI",
+    "plu": "30135",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM T,TIÊN NÂU/TRẮNG (300)",
+    "plu": "31570",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM THỦY TIÊN NÂU (150)",
+    "plu": "31569",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NẤM THỦY TIÊN TRẮNG (150)",
+    "plu": "31568",
+    "emoji": "🍄"
+  },
+  {
+    "name": "NHA ĐAM",
+    "plu": "5240",
+    "emoji": "🌿"
+  },
+  {
+    "name": "NHÃN GIỐNG THÁI",
+    "plu": "13649",
+    "emoji": "🌰"
+  },
+  {
+    "name": "NHÃN TÍM",
+    "plu": "27827",
+    "emoji": "🌰"
+  },
+  {
+    "name": "NHÃN XUỒNG CƠM VÀNG",
+    "plu": "3845",
+    "emoji": "🌰"
+  },
+  {
+    "name": "NHO CAMPBELL HÀN QUỐC GS",
+    "plu": "28049",
+    "emoji": "🍊"
+  },
+  {
+    "name": "NHO ĐEN CHILE",
+    "plu": "15375",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN KHÔNG HẠT ÚC",
+    "plu": "27336",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN MỸ",
+    "plu": "9042",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN MỸ GS",
+    "plu": "27800",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN NAM PHI",
+    "plu": "2740",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN NAM PHI",
+    "plu": "27400",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN NGÓN TAY MỸ",
+    "plu": "22777",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN NGON TAY MỸ GS",
+    "plu": "27856",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN NGÓN TAY ÚC",
+    "plu": "15490",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐEN ÚC GS",
+    "plu": "27421",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ CHILE",
+    "plu": "13651",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ CÓ HẠT PERU",
+    "plu": "8096",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ CÓ HẠT ÚC",
+    "plu": "18562",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ KHÔNG HẠT NAM PHI",
+    "plu": "18150",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ KHÔNG HẠT ÚC GS",
+    "plu": "27422",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ MỸ",
+    "plu": "3709",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ MỸ GS",
+    "plu": "27801",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO ĐỎ ÚC",
+    "plu": "27379",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO KEO ÚC GS",
+    "plu": "27685",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO MẪU ĐƠN HQ",
+    "plu": "27117",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO NGÓN TAY ÚC GS",
+    "plu": "27476",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO RED GLOBE CHILÊ",
+    "plu": "18558",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH CHILE",
+    "plu": "29802",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH KHÔNG HẠT MỸ",
+    "plu": "20684",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH KHÔNG HẠT ÚC",
+    "plu": "27317",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH KHÔNG HẠT ÚC GS",
+    "plu": "27420",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH MỸ GS",
+    "plu": "27799",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH NAM PHI",
+    "plu": "19811",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH NGÓN TAY ÚC",
+    "plu": "14570",
+    "emoji": "🍇"
+  },
+  {
+    "name": "NHO XANH PERU",
+    "plu": "18165",
+    "emoji": "🍇"
+  },
+  {
+    "name": "ỔI CẮT GỌT",
+    "plu": "31945",
+    "emoji": "🟢"
+  },
+  {
+    "name": "ỔI ĐÓNG KHAY",
+    "plu": "6536",
+    "emoji": "🟢"
+  },
+  {
+    "name": "ỔI GIỐNG ĐÀI LOAN",
+    "plu": "15823",
+    "emoji": "🟢"
+  },
+  {
+    "name": "ỔI NỮ HOÀNG",
+    "plu": "12870",
+    "emoji": "🟢"
+  },
+  {
+    "name": "ỔI RUỘT ĐỎ",
+    "plu": "8648",
+    "emoji": "🟢"
+  },
+  {
+    "name": "ỚT SỪNG ĐỎ",
+    "plu": "4075",
+    "emoji": "🌶️"
+  },
+  {
+    "name": "QUẢ ĐÀO",
+    "plu": "26923",
+    "emoji": "🍑"
+  },
+  {
+    "name": "QUẢ KHÓM",
+    "plu": "3822",
+    "emoji": "🍍"
+  },
+  {
+    "name": "QUẢ LÊ MẮC CỌP",
+    "plu": "19007",
+    "emoji": "🍐"
+  },
+  {
+    "name": "QUẢ LỰU HẠT ĐỎ MỀM TQ",
+    "plu": "29118",
+    "emoji": "🔴"
+  },
+  {
+    "name": "QUẢ THƠM",
+    "plu": "3405",
+    "emoji": "🍍"
+  },
+  {
+    "name": "QUÝT AI CẬP",
+    "plu": "25452",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT ĐƯỜNG",
+    "plu": "27593",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT HỒNG",
+    "plu": "3809",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT SIM",
+    "plu": "30715",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT ÚC",
+    "plu": "27086",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT ÚC",
+    "plu": "19284",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT ÚC GS",
+    "plu": "27894",
+    "emoji": "🍊"
+  },
+  {
+    "name": "QUÝT VÀNG TQ",
+    "plu": "29553",
+    "emoji": "🍊"
+  },
+  {
+    "name": "RAU DIẾP XOĂN BỈ ĐỎ",
+    "plu": "28705",
+    "emoji": "🥬"
+  },
+  {
+    "name": "SAPO HỒNG XIÊM",
+    "plu": "27592",
+    "emoji": "🟤"
+  },
+  {
+    "name": "SẦU RIÊNG HẠT LÉP 9 PHẺ",
+    "plu": "22654",
+    "emoji": "🟤"
+  },
+  {
+    "name": "SẦU RIÊNG MUSANGKING 9 PHẺ",
+    "plu": "27727",
+    "emoji": "🟤"
+  },
+  {
+    "name": "SẦU RIÊNG RI 6",
+    "plu": "10099",
+    "emoji": "🟤"
+  },
+  {
+    "name": "SẦU RIÊNG RI 6 KM 30",
+    "plu": "29192",
+    "emoji": "🟤"
+  },
+  {
+    "name": "SẦU RIÊNG ÚT GÁNG",
+    "plu": "22732",
+    "emoji": "🟤"
+  },
+  {
+    "name": "SN-CAM VALENCIA AI CẬP",
+    "plu": "2218",
+    "emoji": "🍊"
+  },
+  {
+    "name": "SN-CAM VÀNG XUẤT XỨ NAM PHI",
+    "plu": "1715",
+    "emoji": "🍊"
+  },
+  {
+    "name": "SN-HON HOP TRAI CAY CAT GOT",
+    "plu": "19015",
+    "emoji": "🧺"
+  },
+  {
+    "name": "SN-TÁO AMBROSIA NZL",
+    "plu": "1265",
+    "emoji": "🍎"
+  },
+  {
+    "name": "SN-TÁO FUJI MỸ",
+    "plu": "2072",
+    "emoji": "🍎"
+  },
+  {
+    "name": "SN-TÁO FUJI NHẬT",
+    "plu": "2125",
+    "emoji": "🍎"
+  },
+  {
+    "name": "SN-VẢI KHÔNG CÀNH",
+    "plu": "10763",
+    "emoji": "🍒"
+  },
+  {
+    "name": "ST- DƯA HẤU HẮC TIỂU LONG",
+    "plu": "31161",
+    "emoji": "🍉"
+  },
+  {
+    "name": "ST- MÃNG CẦU XIÊM NGỦ QUẢ",
+    "plu": "4937",
+    "emoji": "🍈"
+  },
+  {
+    "name": "ST-ĐU ĐỦ VÀNG NGỦ QUẢ",
+    "plu": "4936",
+    "emoji": "🟠"
+  },
+  {
+    "name": "SU HÀO 350G UP",
+    "plu": "23564",
+    "emoji": "🥬"
+  },
+  {
+    "name": "TÁO AMBROSIA CANADA",
+    "plu": "18563",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO AMBROSIA CANADA GS",
+    "plu": "28316",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO AMBROSIA MỸ",
+    "plu": "19457",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO AMBROSIA NZL",
+    "plu": "12658",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO AUTUMN GLORY MỸ GS",
+    "plu": "27452",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO BRAEBURN NZL",
+    "plu": "24577",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO BRAEBURN NZL GS",
+    "plu": "27888",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO BREEZE MỸ",
+    "plu": "24760",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO BREEZE NZL",
+    "plu": "18695",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO CANDINE PHÁP",
+    "plu": "19071",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO COSMIC CRISP MỸ GS",
+    "plu": "27586",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO COSMIC MỸ",
+    "plu": "30461",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO CRIPPS RED NAM PHI GS",
+    "plu": "28333",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO CRISP 3-4 TRÁI 1 KG",
+    "plu": "16289",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO DAZZLE NZL",
+    "plu": "24376",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO DAZZLE NZL GS",
+    "plu": "27802",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO ED DELICIOUS CANADA GS",
+    "plu": "28314",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO ENVY MỸ",
+    "plu": "27274",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO ENVY MỸ SIZE NHỎ",
+    "plu": "10090",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO ENVY NZL",
+    "plu": "20187",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO ENVY NZL SIZE NHỎ",
+    "plu": "8402",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI MỸ",
+    "plu": "20728",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI MỸ GS",
+    "plu": "27723",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI NAM PHI",
+    "plu": "19016",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI NAM PHI GS",
+    "plu": "28406",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI NHẬT",
+    "plu": "21255",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI NZL",
+    "plu": "18716",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO FUJI NZL GS",
+    "plu": "27803",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA BA LAN",
+    "plu": "25402",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA BALAN GS",
+    "plu": "28334",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA MỸ",
+    "plu": "2085",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA MỸ",
+    "plu": "20853",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA MỸ",
+    "plu": "18718",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA MỸ GS",
+    "plu": "27275",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA NZL",
+    "plu": "18159",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA NZL GS",
+    "plu": "27671",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GALA PHÁP",
+    "plu": "8102",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO GAMHONG HÀN QUỐC GS",
+    "plu": "28037",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO HỒNG CHERISH NZL",
+    "plu": "18152",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO HỒNG QUEEN NZL",
+    "plu": "8651",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO HỒNG QUEEN NZL GS",
+    "plu": "27805",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JAZZ NEWZEALAND",
+    "plu": "27137",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JAZZ NZL",
+    "plu": "21564",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JAZZ XUẤT XỨ MỸ",
+    "plu": "12600",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JONAPRINCE BALAN GS",
+    "plu": "28335",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JOYA NAM PHI",
+    "plu": "31682",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JUICI MỸ",
+    "plu": "30463",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO JULIET PHÁP",
+    "plu": "27315",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO KIKU MỸ",
+    "plu": "27623",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO KIKU NZL",
+    "plu": "14482",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO KIKU NZL 4-6 TRAI 1KG",
+    "plu": "8742",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO KIKU NZL GS",
+    "plu": "27804",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO KINSEI NHẬT",
+    "plu": "21257",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO KORU NZL",
+    "plu": "22458",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO LOLIPOP PHÁP",
+    "plu": "13502",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO LUSCIOUS NZL GS",
+    "plu": "28392",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO ONAGOLD CANADA GS",
+    "plu": "28315",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO PINK NZL",
+    "plu": "9051",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO POSY NZL",
+    "plu": "24198",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO PREMIER STAR NZL GS",
+    "plu": "27672",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO RED DELICIOUS MỸ",
+    "plu": "26113",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO RED DELICIOUS MỸ GS",
+    "plu": "27276",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO RED DELICIOUS NZL",
+    "plu": "24224",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO RUBY PHÁP",
+    "plu": "29400",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO RUBY PHÁP GS",
+    "plu": "29402",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SEKAI ICHI NHẬT",
+    "plu": "21258",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SNAP DRAGON MỸ",
+    "plu": "18068",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SONNYA NZL",
+    "plu": "1126",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SONNYA NZL",
+    "plu": "11266",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SONYA MỸ",
+    "plu": "14436",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SONYA NZL",
+    "plu": "8397",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO SUGAR BEE MỸ",
+    "plu": "24979",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO TARZI NZL",
+    "plu": "29730",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO TESSA HA LAN",
+    "plu": "27314",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO VÀNG HÀN QUỐC GS",
+    "plu": "28036",
+    "emoji": "🍎"
+  },
+  {
+    "name": "TÁO XANH MỸ",
+    "plu": "20652",
+    "emoji": "🍏"
+  },
+  {
+    "name": "TÁO XANH MỸ 5-7 TRAI 1KG",
+    "plu": "1539",
+    "emoji": "🍏"
+  },
+  {
+    "name": "TÁO XANH MỸ GS",
+    "plu": "27729",
+    "emoji": "🍏"
+  },
+  {
+    "name": "TÁO XANH MỸ ORGANIC",
+    "plu": "15390",
+    "emoji": "🍏"
+  },
+  {
+    "name": "TÁO XANH NAM PHI",
+    "plu": "28913",
+    "emoji": "🍏"
+  },
+  {
+    "name": "TÁO XANH NZL",
+    "plu": "18717",
+    "emoji": "🍏"
+  },
+  {
+    "name": "TÁO XANH PHÁP",
+    "plu": "14851",
+    "emoji": "🍏"
+  },
+  {
+    "name": "THANH LONG CẮT GỌT",
+    "plu": "31946",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG ĐÓNG KHAY",
+    "plu": "6540",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG RUỘT ĐỎ",
+    "plu": "3825",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG RUỘT ĐỎ",
+    "plu": "31163",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG RUỘT ĐỎ ĐÓNG KHAY",
+    "plu": "9047",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG TRẮNG",
+    "plu": "27409",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG TRẮNG",
+    "plu": "31185",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH LONG VÀNG",
+    "plu": "6549",
+    "emoji": "🐉"
+  },
+  {
+    "name": "THANH NHÃN",
+    "plu": "27828",
+    "emoji": "🌰"
+  },
+  {
+    "name": "TỎI PHAN RANG",
+    "plu": "5241",
+    "emoji": "🧄"
+  },
+  {
+    "name": "TRÁI VẢI",
+    "plu": "27668",
+    "emoji": "🍒"
+  },
+  {
+    "name": "VÚ SỮA",
+    "plu": "13772",
+    "emoji": "🟣"
+  },
+  {
+    "name": "VÚ SỮA HOÀNG KIM",
+    "plu": "14448",
+    "emoji": "🟣"
+  },
+  {
+    "name": "VÚ SỮA TÍM",
+    "plu": "9052",
+    "emoji": "🟣"
+  },
+  {
+    "name": "VÚ SỮA TRẮNG",
+    "plu": "3835",
+    "emoji": "🟣"
+  },
+  {
+    "name": "XÀ LÁCH CAROL",
+    "plu": "27354",
+    "emoji": "🥬"
+  },
+  {
+    "name": "XÀ LÁCH ICE BERG",
+    "plu": "3988",
+    "emoji": "🥬"
+  },
+  {
+    "name": "XÀ LÁCH LOLO XANH",
+    "plu": "3990",
+    "emoji": "🥬"
+  },
+  {
+    "name": "XÀ LÁCH MỠ",
+    "plu": "3991",
+    "emoji": "🥬"
+  },
+  {
+    "name": "XOÀI CÁT CHU VÀNG",
+    "plu": "6535",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI CÁT CHU VÀNG",
+    "plu": "12618",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI CÁT CHU VÀNG MR.9",
+    "plu": "27687",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI CAT CHU XANH",
+    "plu": "27591",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI CÁT HÒA LỘC",
+    "plu": "27590",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI ĐỎ GIỐNG ĐÀI LOAN",
+    "plu": "4405",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI GIỐNG ÚC",
+    "plu": "19136",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI GIỐNG ÚC ĐÓNG KHAY",
+    "plu": "16288",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI HẠT LÉP",
+    "plu": "25676",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI KEO VÀNG",
+    "plu": "27688",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI KEO XANH",
+    "plu": "11810",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI TỨ QUÝ",
+    "plu": "11997",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI XANH GIỐNG ĐÀI LOAN",
+    "plu": "26798",
+    "emoji": "🥭"
+  },
+  {
+    "name": "XOÀI XANH GIỐNG THÁI",
+    "plu": "10823",
+    "emoji": "🥭"
+  }
+]
