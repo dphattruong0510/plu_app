@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store OP PLU App</title>
+    <style>
+        :root {
+            --lotte-red: #ED1C24;
+            --lotte-dark-red: #BE1117;
+            --bg-light: #F9FAFB;
+            --text-dark: #2D3748;
+            --text-muted: #718096;
+            --white: #FFFFFF;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            line-height: 1.6;
+            padding: 0;
+        }
+
+        /* Top Header Navigation */
+        .top-bar {
+            background-color: var(--white);
+            border-bottom: 2px solid var(--lotte-red);
+            padding: 12px 24px;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        .team-badge {
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--lotte-red);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border: 1px solid var(--lotte-red);
+            padding: 4px 12px;
+            border-radius: 4px;
+        }
+
+        /* Main Container */
+        .container {
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        /* App Card */
+        .card {
+            background-color: var(--white);
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            padding: 40px;
+            border-top: 6px solid var(--lotte-red);
+        }
+
+        /* Typography */
+        .app-title {
+            font-size: 2rem;
+            color: var(--lotte-red);
+            font-weight: 800;
+            margin-bottom: 4px;
+            text-align: center;
+        }
+
+        .author {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-align: center;
+            margin-bottom: 32px;
+            font-weight: 500;
+        }
+
+        .section-title {
+            font-size: 1.2rem;
+            color: var(--text-dark);
+            margin-top: 24px;
+            margin-bottom: 12px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+        }
+
+        .section-title::before {
+            content: "";
+            display: inline-block;
+            width: 4px;
+            height: 18px;
+            background-color: var(--lotte-red);
+            margin-right: 8px;
+            border-radius: 2px;
+        }
+
+        p {
+            margin-bottom: 16px;
+            font-size: 1rem;
+            color: #4A5568;
+        }
+
+        /* Interactive Buttons */
+        .btn-group {
+            display: block;
+            margin: 20px 0 28px 0;
+            text-align: center;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 14px 28px;
+            font-size: 1rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .btn-primary {
+            background-color: var(--lotte-red);
+            color: var(--white);
+            box-shadow: 0 4px 12px rgba(237, 28, 36, 0.2);
+        }
+
+        .btn-primary:hover {
+            background-color: var(--lotte-dark-red);
+            transform: translateY(-1px);
+            box-shadow: 0 6px 16px rgba(237, 28, 36, 0.3);
+        }
+
+        .btn-secondary {
+            background-color: #F7FAFC;
+            color: var(--text-dark);
+            border: 1px solid #E2E8F0;
+            margin-top: 8px;
+        }
+
+        .btn-secondary:hover {
+            background-color: #EDF2F7;
+            border-color: #CBD5E0;
+        }
+
+        /* Instruction Image */
+        .image-container {
+            background-color: #F7FAFC;
+            border: 1px solid #E2E8F0;
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 12px;
+            text-align: center;
+        }
+
+        .instruction-img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            .card {
+                padding: 24px;
+            }
+            .app-title {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Top Badge -->
+    <div class="top-bar">
+        <div class="team-badge">Operation Team</div>
+    </div>
+
+    <div class="container">
+        <div class="card">
+            <!-- App Header -->
+            <h1 class="app-title">Store OP PLU App</h1>
+            <div class="author">by: OP Phát</div>
+
+            <!-- Step 1 -->
+            <div class="section-title">Bước 1: Tải về và cài đặt ứng dụng</div>
+            <p>Vui lòng nhấn vào nút bên dưới để tải file cài đặt (APK) trực tiếp về thiết bị di động của bạn và tiến hành cài đặt.</p>
+            
+            <div class="btn-group">
+                <a href="https://github.com/dphattruong0510/plu_app/blob/main/store-op-plu.apk?raw=true" class="btn btn-primary">
+                    📥 Tải về PLU App (APK)
+                </a>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="section-title">Bước 2: Cập nhật danh sách sản phẩm mới</div>
+            <p>Sau khi hoàn tất cài đặt ứng dụng, vui lòng tải tập tin dữ liệu danh sách sản phẩm mới nhất theo đường dẫn dưới đây:</p>
+            
+            <div class="btn-group">
+                <a href="https://github.com/dphattruong0510/plu_app/blob/main/products.json" target="_blank" class="btn btn-secondary">
+                    📄 Tải file danh sách sản phẩm (products.json)
+                </a>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="section-title">Hướng dẫn cập nhật dữ liệu sản phẩm mới nhất (Update List)</div>
+            <p>Tải file json về như bên trên rồi vào app chọn "Cập nhật dữ liệu" và chọn file vừa tải về</p>
+            <p>Thực hiện các bước theo sơ đồ hướng dẫn chi tiết bên dưới để đồng bộ dữ liệu vào ứng dụng:</p>
+            
+            <div class="image-container">
+                <img src="https://raw.githubusercontent.com/dphattruong0510/plu_app/refs/heads/main/update_list.png" alt="Hướng dẫn update list" class="instruction-img">
+            </div>
+        </div>
+
+        <div class="footer">
+            &copy; 2026 LOTTE Mart Vietnam - Operation Team.
+        </div>
+    </div>
+
+</body>
+</html>
