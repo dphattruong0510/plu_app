@@ -192,18 +192,15 @@
 </head>
 <body>
 
-    <!-- Top Badge -->
     <div class="top-bar">
         <div class="team-badge">Operation Team</div>
-    </div>
+    }
 
     <div class="container">
         <div class="card">
-            <!-- App Header -->
             <h1 class="app-title">Store OP PLU App</h1>
             <div class="author">by: OP Phát</div>
 
-            <!-- Step 1 -->
             <div class="section-title">Bước 1: Tải về và cài đặt ứng dụng</div>
             <p>Vui lòng nhấn vào nút bên dưới để tải file cài đặt (APK) trực tiếp về thiết bị di động của bạn và tiến hành cài đặt.</p>
             
@@ -213,19 +210,17 @@
                 </a>
             </div>
 
-            <!-- Step 2 -->
             <div class="section-title">Bước 2: Cập nhật danh sách sản phẩm mới</div>
             <p>Sau khi hoàn tất cài đặt ứng dụng, vui lòng tải tập tin dữ liệu danh sách sản phẩm mới nhất theo đường dẫn dưới đây:</p>
             
             <div class="btn-group">
-                <a href="https://raw.githubusercontent.com/dphattruong0510/plu_app/refs/heads/main/products.json" target="_blank" class="btn btn-secondary">
+                <a href="#" id="download-json" class="btn btn-secondary">
                     📄 Tải file danh sách sản phẩm (products.json)
                 </a>
             </div>
 
-            <!-- Step 3 -->
-            <div class="section-title">Hướng dẫn cập nhật dữ liệu sản phẩm mới nhất (Update List)</div>
-            <p>Tải file json về như bên trên rồi vào app chọn "Cập nhật dữ liệu" và chọn file vừa tải về</p>
+            <div class="section-title">Hướng dẫn cập nhật dữ liệu sản phẩm mới nhất (Update List)</div>
+            <p>Tải file json về như bên trên rồi vào app chọn "Cập nhật dữ liệu" và chọn file vừa tải về</p>
             <p>Thực hiện các bước theo sơ đồ hướng dẫn chi tiết bên dưới để đồng bộ dữ liệu vào ứng dụng:</p>
             
             <div class="image-container">
@@ -238,5 +233,50 @@
         </div>
     </div>
 
+    <script>
+        document.getElementById('download-json').addEventListener('click', function(e) {
+            e.preventDefault(); // Ngừng chuyển trang theo mặc định
+            
+            const fileUrl = 'https://raw.githubusercontent.com/dphattruong0510/plu_app/refs/heads/main/products.json';
+            const fileName = 'products.json';
+            
+            // Đổi text tạm thời để người dùng biết hệ thống đang xử lý tải xuống
+            const originalText = this.innerHTML;
+            this.innerHTML = "⏳ Đang chuẩn bị tải file...";
+            this.style.pointerEvents = "none"; // Khóa nút bấm khi đang tải dữ liệu
+
+            fetch(fileUrl)
+                .then(response => {
+                    if (!response.ok) throw new Error("Không thể tải file từ server");
+                    return response.blob();
+                })
+                .then(blob => {
+                    // Tạo một blob URL cục bộ
+                    const blobUrl = window.URL.createObjectURL(blob);
+                    
+                    // Tạo thẻ ẩn để thực hiện click download
+                    const tempLink = document.createElement('a');
+                    tempLink.href = blobUrl;
+                    tempLink.download = fileName;
+                    
+                    document.body.appendChild(tempLink);
+                    tempLink.click();
+                    document.body.removeChild(tempLink);
+                    
+                    // Giải phóng bộ nhớ ảo
+                    window.URL.revokeObjectURL(blobUrl);
+                    
+                    // Khôi phục nút bấm ban đầu
+                    this.innerHTML = originalText;
+                    this.style.pointerEvents = "auto";
+                })
+                .catch(error => {
+                    console.error('Lỗi download:', error);
+                    alert('Có lỗi xảy ra khi tải file. Vui lòng thử lại!');
+                    this.innerHTML = originalText;
+                    this.style.pointerEvents = "auto";
+                });
+        });
+    </script>
 </body>
 </html>
